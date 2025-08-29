@@ -7,10 +7,10 @@ void main() async {
   /*if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-          apiKey: "AIzaSyDLcAafTtlDp7RKng-ygKYkb0KnTQ_Pi5E",
-          appId: "1:831318956585:web:d60626efb48d41d0a85a38",
-          messagingSenderId: "831318956585",
-          projectId: "kiraya-dfad3",
+          apiKey: "",
+          appId: "",
+          messagingSenderId: "",
+          projectId: "",
         ));
   } else {
     await Firebase.initializeApp();
